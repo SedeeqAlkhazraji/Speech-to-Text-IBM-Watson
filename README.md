@@ -12,13 +12,18 @@ To run this code, you will need a `username`, `password`, and `url`. To get your
      1. On the left side of the page, click **Service Credentials** to view your service credentials.
      1. Copy `username`, `password`, and `url` from these service credentials.
      
- **Input**
+## Input
  Save your audio (Speech) files in the "1_Input_flca_Files" directory.
  
- **Running**
+## Running
 Run the file **Convert.py** using python 2.7 or later
 
-**Output**
+## Output
 The final formatted TEXT will save as ".SRT" files on "2_Output_Files" directory.
 NOTE: "2_Output_Files" will contain ".text" files as temporary files during the conversion process. 
+
+## Authors
+
+* **Sedeeq Al-khazraji** - *Initial work* -
+https://github.com/SedeeqAlkhazraji
 
