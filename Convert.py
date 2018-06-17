@@ -11,8 +11,8 @@ from watson_developer_cloud.websocket import RecognizeCallback
 # Get these from the Blumix service page. There are not your Bluemix username and password
 # ///////////////////////////////////////////////////////////////////////////////////////////////////////
 speech_to_text = SpeechToTextV1(
-    username='55808219-0546-4919-ba49-309765859ed8',
-    password='HGM5nj1pX4V1',
+    username='XXXXXXXX-XXXX-XXXXX-XXXXX-XXXXXXXXXXXX',
+    password='XXXXXXXXXXXX',
     url='https://stream.watsonplatform.net/speech-to-text/api')
 
 # The input file should already exist as a .flac file from "ffmpeg -i *.mov *.flac"
