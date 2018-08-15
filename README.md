@@ -1,4 +1,7 @@
 # Speech-to-Text-IBM-Watson
+
+![Background](https://github.com/SedeeqAlkhazraji/Speech-to-Text-IBM-Watson/blob/master/Report_Img/5.png)
+
 Speech to Text using IBM Watson API. 
 
 To run this code, you will need a `username`, `password`, and `url`. To get your service credentials, follow these steps:
