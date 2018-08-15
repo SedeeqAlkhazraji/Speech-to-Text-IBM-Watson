@@ -2,7 +2,7 @@
 
 ![Background](https://github.com/SedeeqAlkhazraji/Speech-to-Text-IBM-Watson/blob/master/Background.png)
 
-Speech to Text using IBM Watson API. 
+This is a tool written in Python to convert audio Speech file to Text file using IBM Watson API. 
 
 To run this code, you will need a `username`, `password`, and `url`. To get your service credentials, follow these steps:
  1. Log in to IBM Cloud at https://console.bluemix.net.
